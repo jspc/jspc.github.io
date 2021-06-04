@@ -1,0 +1,36 @@
+[
+ {
+  "username": "jspc",
+  "name": "jspc",
+  "userimg": "https://avatars.githubusercontent.com/u/810133?v=4",
+  "sort": "created",
+  "order": "desc",
+  "includeFork": false,
+  "theme": "light",
+  "types": [
+   "all"
+  ],
+  "socials": {
+   "linkedin": "zerointernet"
+  },
+  "repositories": [
+   "cv",
+   "seoulos",
+   "vin",
+   "linux-utils",
+   "go-lo",
+   "gin",
+   "BambiOS",
+   "routes",
+   "goodnotes-margin",
+   "sparql",
+   "cube",
+   "goose4",
+   "tinyfib",
+   "privacy-dockerfiles",
+   "threepio"
+  ],
+  "cv": "/jamescondron-sre-cv.pdf",
+  "orgs": true
+ }
+]
