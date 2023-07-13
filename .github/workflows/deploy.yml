@@ -18,7 +18,7 @@ jobs:
       with:
         node-version: 16.x
     - run: npm i -g
-    - run: npm i -g @jspc/gitfolio
+    - run: npm i -g git+https://github.com/jspc/gitfolio.git
     - run: make
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
